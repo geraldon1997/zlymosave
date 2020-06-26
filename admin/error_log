@@ -1,0 +1,12 @@
+[26-Jun-2020 17:07:08 America/New_York] PHP Warning:  include_once(../vendor/autoload.php): failed to open stream: No such file or directory in /home/zlymstwt/public_html/admin/index.php on line 2
+[26-Jun-2020 17:07:08 America/New_York] PHP Warning:  include_once(): Failed opening '../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zlymstwt/public_html/admin/index.php on line 2
+[26-Jun-2020 17:07:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Controllers\Activity' not found in /home/zlymstwt/public_html/admin/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zlymstwt/public_html/admin/index.php on line 8
+[26-Jun-2020 17:10:49 America/New_York] PHP Warning:  include_once(../vendor/autoload.php): failed to open stream: No such file or directory in /home/zlymstwt/public_html/admin/index.php on line 2
+[26-Jun-2020 17:10:49 America/New_York] PHP Warning:  include_once(): Failed opening '../vendor/autoload.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/zlymstwt/public_html/admin/index.php on line 2
+[26-Jun-2020 17:10:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'App\Controllers\Activity' not found in /home/zlymstwt/public_html/admin/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/zlymstwt/public_html/admin/index.php on line 8
